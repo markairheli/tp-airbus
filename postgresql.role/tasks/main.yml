@@ -1,5 +1,4 @@
--irbus/postgresql.role/tasks && vim main.yml
---
+---
 # tasks file for postgresql.rolea
 - include_tasks: variables.yml
 
